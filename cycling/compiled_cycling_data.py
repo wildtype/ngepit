@@ -1,5 +1,4 @@
 import gpxpy
-from collections import namedtuple
 
 class CompiledCyclingData:
     def __init__(self):
