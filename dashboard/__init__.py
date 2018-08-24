@@ -43,6 +43,6 @@ def update_total_moving_time(compiled_data):
 
 def update_dashboard(compiled_data):
     update_total_distance(compiled_data)
-    update_total_movint_time(compiled_data)
+    update_total_moving_time(compiled_data)
     update_max_speed(compiled_data)
     update_average_speed(compiled_data)
