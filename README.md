@@ -1,1 +1,1 @@
-Cloud Functions behind http://ngepit.prehistoric.me
+Cloud Functions behind http://cycling.prehistoric.me
